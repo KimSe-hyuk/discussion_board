@@ -1,0 +1,65 @@
+
+
+#side{
+	position:relative;
+	height:300px;
+	width:100px;
+	color:blue;
+	background-color:#A9F5D0;
+	float: left; 
+	text-align:center;
+}
+
+.str{
+font-size:15px;
+font-style:bold;
+margin-top:10px;
+}
+.side_bord{
+	
+}
+
+.side_bord{
+  background-color:#F7819F;
+  color:blue;
+  cursor: pointer;
+    font-weight:bold;
+}
+.side_bord1{
+
+  cursor: pointer;
+}
+
+ #side div:hover{
+   background-color:grey;
+	color:yellow;
+}
+ #side a:link{
+    text-decoration: none;
+	font-weight: bolder;
+	color: black;
+}
+ #side a:visited{
+  text-decoration: none;
+  color: black;
+}
+ #side div:hover{
+   background-color:grey;
+	color:yellow;
+}
+#side div:active{
+  text-decoration: none;
+  color: white;
+}
+
+
+.pa{
+ width:100px;
+ text-align:center;
+ background-color:grey;
+	
+position:absolute;
+left:0px;
+ bottom: 50px;
+
+}

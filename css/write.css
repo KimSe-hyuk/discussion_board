@@ -1,0 +1,7 @@
+
+.wrtable { margin-top:8px;width:100%; text-align:center; }
+table.wrtable  th    { height:30px;width:100px; background-color:#D8F6CE; }
+table.wrtable       input[type=text], textarea { width:100%; }
+th{
+font-size:15px;
+}

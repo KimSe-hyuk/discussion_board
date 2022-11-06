@@ -1,0 +1,24 @@
+h1.cre_bord{
+	text-align:center;
+	margin-bottom:50px;
+	font-size:35px;
+	color:#A4A4A4;
+}
+
+#cre_all{
+    background: #E0FFFF;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+	width:30%;
+	height:40%;
+	position:absolute;
+	top:25%;
+	left:35%;
+}
+.text{
+height:30px;
+color:#819FF7;
+}

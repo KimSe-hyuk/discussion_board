@@ -1,0 +1,86 @@
+
+aside{
+	width: 150px;
+    float: left;
+	margin-top:	130px;
+}
+
+
+
+section#main{
+  width: 970px;
+  height:auto;
+  margin-top: auto;
+  position: relative;
+}
+
+
+section#main #img{
+	width: 757px;
+    height:200px;
+    position: relative;
+	float: right; 
+	margin-right:3px;
+}
+
+
+.nones{
+	color: -webkit-link;
+    cursor: pointer;
+      text-decoration: none;
+}
+
+
+
+section#main .border1{
+  position: relative;
+  width:78.5%;
+  float: right;
+
+}
+section#main #border1{
+  border: 3px solid #EFFBFB;
+  text-align:center;
+  width:100%;
+  
+}
+
+section#main #border1  th        { 
+	background-color: #D8F6CE;
+ }
+
+
+section#main #border1  td {
+	padding-top:10px;	
+	padding-bottom:10px;
+	font-size:15px;
+     border-bottom: 1px solid #c4c4c4;
+	/*
+ border-left: 1px solid #c4c4c4;
+  border-right: 1px solid #c4c4c4;
+   border-top: 1px solid #c4c4c4;
+ border-bottom: 1px solid #c4c4c4;*/
+}
+
+section#main #border1  #imgs {
+	width:100px;
+
+   margin : auto;
+ }
+section#main #border1  td#a {
+
+
+ }
+section#main #border1  .num      { width:12%; }
+section#main #border1  .title    { width:30%; }
+section#main #border1  .yesmidno { width:20%; }
+section#main #border1  .writer   { width:10%; }
+section#main #border1  .regtime  { width:20%; }
+section#main #border1  .hits     { width:8%; }
+
+section#main #border1 .borard_link a:link    { text-decoration:none; color:blue; }
+section#main #border1 .borard_link a:visited { text-decoration:none; color:gray; }
+section#main #border1 .borard_link a:hover   { text-decoration:none; color:red;  }
+
+
+

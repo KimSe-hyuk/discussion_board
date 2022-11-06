@@ -1,0 +1,27 @@
+
+*{
+	background-color:#E0FFFF;;
+	 
+}
+body {
+
+display: flex;
+    justify-content: center;
+    align-items: center;
+    
+      }
+
+#join td{
+	color:#928C8C;
+		border:0 solid black;
+}
+#sub{
+margin-left:50%;
+background-color:#8AC8CC;
+color:white;
+border-color:  #42CDD8;
+}
+.tds{
+	background-color:white;
+	border:thin solid  #42CDD8;
+}

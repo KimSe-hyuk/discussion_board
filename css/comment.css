@@ -1,0 +1,151 @@
+#piechart_3d{
+	float: left;
+	width: 450px; 
+	 position: relative;
+}
+#columnchart_values{
+	float: right;
+	width: 450px;
+	
+	position: relative;
+}
+.dat_all{
+	clear:boat;
+}
+.div2 {
+		clear:both;
+        border: 1px solid;
+        width: 100px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+.reply_view {
+
+}
+.re_yes {
+	margin-top: 15px;
+	clear:both;
+	text-align:center;
+	height:110px;
+	width:900px;
+	border-bottom: solid 1px gray;
+	background-color:skyblue;
+}
+.re_no {
+clear:both;
+	margin-top: 15px;
+	text-align:center;
+	height:110px;
+	width:900px;
+	border-bottom: solid 1px gray;
+	background-color:#F6CECE;
+}.re_mid {clear:both;
+	margin-top: 15px;
+	text-align:center;
+	height:110px;
+	width:900px;
+	border-bottom: solid 1px gray;
+	background-color:#E6E6E6;
+}
+.yes {clear:both;
+	float: left;
+	height:85px;
+	width:300px;
+	font-size: 14px;
+	padding:10px 0 15px 0;
+	background-color:#819FF7;
+
+
+}
+.no {
+	float: right;
+	height:85px;
+	font-size: 14px;
+	width:300px;
+	padding:10px 0 15px 0;
+	background-color:#FA5858;
+}
+.mid {
+	float: none;
+	height:85px;
+	width:300px;
+	font-size: 14px;
+	padding:10px 0 15px 0;
+	background-color:grey;
+	margin-left:300px;
+}
+.dap_to {
+	margin-top:5px;
+}
+.rep_me {
+	font-size:12px;
+}
+.rep_me ul li {
+	float:left;
+	width: 30px;
+}
+.dat_delete {
+	display: none;
+}	
+.dat_edit {
+	display:none;
+}
+.dap_sm {
+	position: absolute;
+	top: 10px;
+}
+.dap_edit_t{
+	width:520px;
+	height:70px;
+	position: absolute;
+	top: 40px;
+}
+.re_mo_bt {
+	position: absolute;
+	top:40px;
+	right: 5px;
+	width: 90px;
+	height: 72px;
+}
+#re_content {
+	width:700px;
+	height: 56px; 
+}
+.dap_ins {
+	margin-top:50px;
+}
+.re_bt {
+	position: absolute;
+	width:100px;
+	height:56px;
+	font-size:16px;
+	margin-left: 10px; 
+}
+#foot_box {
+	height: 50px; 
+}
+
+.dap_ins .yes1{
+	background-color: #A9BCF5;
+}
+
+.dap_ins  .no1{
+        background-color: #F5A9A9;
+      }
+.dap_ins  .mid1{
+        background-color: #E6E6E6;
+      }
+input.bu{
+	 background-color:	#D8F6CE;
+cursor: pointer;
+color:grey;
+  
+}	
+input.bu:hover{
+   background-color:#8AD7A5;
+	color:black;
+	font-weight:bold;
+}

@@ -1,0 +1,18 @@
+h1{
+	padding-top:20px;
+	padding-bottom:20px;
+	border-bottom:1px solid grey;
+	border-top:1px solid grey;
+	text-align:center;
+	position:relative;
+}
+#name{
+	float:right;
+	font-size:13px;
+}
+#mai{
+	height:auto;
+	border:1px solid #2E2E2E;
+	padding:20px;
+
+}
